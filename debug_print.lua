@@ -1,3 +1,6 @@
+-- filename: debug_print.lua
+-- purpose: prints upon debug == 1, and logs upon logging == 1
+-- this is a code fragment and it's recommended to copy-paste it directly into your code.
 debug = 1
 logging = 1
 log_file = "log.txt"
